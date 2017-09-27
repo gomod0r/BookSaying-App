@@ -7,11 +7,11 @@ iOS & Android Uygulaması React Native ile geliştiriliyor.
 ## v1 Yol Haritası
 - [x] Giriş Yap Sayfası
 - [x] Kayıt Ol Sayfası
-- [ ] Sözlerim Sayfası
-- [ ] Söz Ekle Sayfası
-- [ ] Profilim Sayfası
-- [ ] Profil Düzenle Sayfası
-- [ ] Diğer (Menü) Sayfası
+- [x] Sözlerim Sayfası
+- [x] Söz Ekle Sayfası
+- [x] Profilim Sayfası
+- [x] Profil Düzenle Sayfası
+- [x] Diğer (Menü) Sayfası
 - [ ] Servislerin Bağlanması
 
 ## v2 Yol Haritası
